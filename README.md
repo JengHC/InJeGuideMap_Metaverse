@@ -6,7 +6,7 @@
 - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya), Rhino,ScatchUp으로 지형 제작
 - Photon을 사용해서 서버 구축
 - Plastic SCM을 사용해서 협업
-- Mixamo를 사용해 캐릭터,애니메이션 제작
+- Mixamo를 사용해 캐릭터, 애니메이션 제작
 ### 핵심 기능
 - 체험
   - 학생 및 외부인들이 PC와 모바일을 통해 인제대학교를  "체험" 할 수 있는 공간
