@@ -2,7 +2,7 @@
 ### 인제대학교 가이드맵 (인제대학교 메타버스)
 - [**제작 영상**](https://youtu.be/GlB0aMk6Xkk)
 - [**재작 과정**](https://youtu.be/QcdvZuJJcQI)
-- Unity를 이용해서 제작
+- Unity 3D 사용
 - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya), Rhino,ScatchUp으로 지형 제작
 - Photon을 사용해서 서버 구축
 - Plastic SCM을 사용해서 협업
