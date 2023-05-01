@@ -38,9 +38,9 @@ public class PlayerMovement : MonoBehaviour
         _controller = this.GetComponent<CharacterController>();
     }
 
-    // Update is called once per frame
     void Update()
     {
+        // 캐릭터 고정, 카메라 회전가능(ex.배틀그라운드 시선고정후 카메라 돌리는 기능)
         if (Input.GetKey(KeyCode.LeftAlt))
         {
             toggleCameraRotation = true;
@@ -50,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
             toggleCameraRotation = false;
         }
 
+        // 달리기 
         InputMovement();
         if (Input.GetKey(KeyCode.LeftShift))
         {
@@ -60,7 +61,7 @@ public class PlayerMovement : MonoBehaviour
             run = false;
         }
 
-        //점프
+        //점프버튼
         if (Input.GetButton("Jump"))
         {
             moveDirection.y = jumpSpeed;
