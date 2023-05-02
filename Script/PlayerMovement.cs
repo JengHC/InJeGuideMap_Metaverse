@@ -43,11 +43,11 @@ public class PlayerMovement : MonoBehaviour
         // 캐릭터 고정, 카메라 회전가능(ex.배틀그라운드 시선고정후 카메라 돌리는 기능)
         if (Input.GetKey(KeyCode.LeftAlt))
         {
-            toggleCameraRotation = true;
+            toggleCameraRotation = true; // 돌아서 보기 활성화
         }
         else
         {
-            toggleCameraRotation = false;
+            toggleCameraRotation = false; // 돌아서 보기 비활성화
         }
 
         // 달리기 
