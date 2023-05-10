@@ -5,7 +5,7 @@
 - Unity 3D 사용
 - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya), Rhino,ScatchUp으로 지형 제작
 - Photon을 사용해서 서버 구축
-- Plastic SCM을 사용해서 협업
+- Plastic SCM을 사용해서 협업 및 버전 관리
 - Mixamo를 사용해 캐릭터, 애니메이션 제작
 ### 핵심 기능
 - 체험
