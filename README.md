@@ -2,11 +2,6 @@
 ### 인제대학교 가이드맵 (인제대학교 메타버스)
 - [**제작 영상**](https://youtu.be/GlB0aMk6Xkk)
 - [**재작 과정**](https://youtu.be/QcdvZuJJcQI)
-- Unity 3D 사용
-- [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya), Rhino,ScatchUp으로 지형 제작
-- Photon을 사용해서 서버 구축
-- Plastic SCM을 사용해서 협업 및 버전 관리
-- Mixamo를 사용해 캐릭터, 애니메이션 제작
 
 ### 제작 목적
 - 체험
@@ -19,8 +14,8 @@
 👍 "**인제대학교 메타버스**" 제작
 
 ### 핵심 기능
-- Photon을 활용한 멀티 플레이
-  - 유저들간의 채팅 기능 사용 가능
+- Mixamo를 사용한 캐릭터, 애니메이션 제작
+  - Mixamo의 캐릭터와 애니메이션을 통해 캐릭터 제작
   
 - NPC와 Dialogue System을 활용한 대화
   - Raycast를 활용해 NPC근처위치에 가면 [F] to Chat 이라는 문구가 활성화
@@ -41,9 +36,15 @@
 
 - [Tab] Button Click 
   - [Tab] 버튼 클릭시 월드의 조감도 이미지 활성화 
+
+- Photon을 활용한 멀티 플레이
+  - 유저들간의 채팅 기능 사용 가능
+
+- Plastic SCM을 활용해 협업
+  - Plastic SCM을 활용해 프로젝트를 공유 및 협업 했으며, 프로젝트 버전 업그레이드
   
 - 학교를 **실사화**해서 제작 
-  - Blender와 Maya 이 외에도 Scatch Up, Rhino 프로그램을 통해서 학교의 건물 및 지형을 직접 제작
+  - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya)와 Maya 이 외에도 Scatch Up, Rhino 프로그램을 통해서 학교의 건물 및 지형을 직접 제작
 
 ### 배운점
 - 팀원들과의 협동심
