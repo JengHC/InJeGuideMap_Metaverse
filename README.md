@@ -41,7 +41,7 @@
   - 유저들간의 채팅 기능 사용 가능
 
 - Plastic SCM을 활용해 협업
-  - Plastic SCM을 활용해 프로젝트를 공유 및 협업 했으며, 프로젝트 버전 업그레이드
+  - Plastic SCM을 활용해 프로젝트를 공유를 통한 협업 및 프로젝트 버전 업그레이드
   
 - 학교를 **실사화**해서 제작 
   - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya)와 Maya 이 외에도 Scatch Up, Rhino 프로그램을 통해서 학교의 건물 및 지형을 직접 제작
