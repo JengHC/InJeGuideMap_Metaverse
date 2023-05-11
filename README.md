@@ -1,6 +1,7 @@
 # InJeGuideMap_Metaverse
 ### 인제대학교 가이드맵 (인제대학교 메타버스)
 - [**제작 영상**](https://youtu.be/GlB0aMk6Xkk)
+- <iframe width="1044" height="587" src="https://youtu.be/GlB0aMk6Xkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [**재작 과정**](https://youtu.be/QcdvZuJJcQI)
 
 ### 제작 목적
