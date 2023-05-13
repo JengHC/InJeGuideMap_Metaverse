@@ -57,6 +57,10 @@
 - 학교를 **실사화**해서 제작 
   - [**Blender로 건물제작**](https://github.com/JengHC/Blender-Maya)와 Maya 이 외에도 Scatch Up, Rhino 프로그램을 통해서 학교의 건물 및 지형을 직접 제작
 
+**성과**
+
+- 2022-2 학기 IU-CUSTOM 학점제 성과보고회 최우수상 (인제대학교 총장)
+
 ### 배운점
 - 팀원들과의 협동심
 - 기획의 중요성
