@@ -28,7 +28,7 @@
   - Mixamo의 캐릭터와 애니메이션을 통해 캐릭터 제작
   
 - NPC와 Dialogue System을 활용한 대화
-  - Raycast를 활용해 NPC근처위치에 가면 [F] to Chat 이라는 문구가 활성화
+  - Trigger and Tag를 활용해 NPC근처위치에 가면 [F] to Chat 이라는 문구가 활성화
   - [F] 키를 누르게 되면 NPC와 DialogueSystem을 사용한 대화창이 활성화
   - 실제 NPC와 대화 하는 느낌을 주기 위해 키보드 소리를 AudioClip에 추가해서 Effect추가
 
