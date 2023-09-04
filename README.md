@@ -70,5 +70,3 @@
 
 &rarr; **아는 것**과 **모르는 것**을 확실하게 구분하여, 효율적인 공부 
 
-[![HitCount](https://hits.dwyl.com/JengHC/InJeGuideMap_Metaverse.svg?style=plat-square)](http://hits.dwyl.com/JengHC/InJeGuideMap_Metaverse)
-
