@@ -69,6 +69,3 @@
 - 리소스 제작 및 사용 능력
 
 &rarr; **아는 것**과 **모르는 것**을 확실하게 구분하여, 효율적인 공부 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJengHC%2FInJeGuideMap_Metaverse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
